@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Cláudio César Alves da Silva
 
-<!--
-**ClaudioCesar1502/ClaudioCesar1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Dados Pleno com foco em desenvolvimento de scripts SQL otimizados em ambientes de grande volume, como Teradata, com aplicação em políticas sociais, focalização de benefícios e cruzamentos cadastrais.
 
-Here are some ideas to get you started:
+💼 Meus principais focos de atuação são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔄 Processos complexos em SQL com múltiplas CTEs, `CASE`, `JOIN`, `ROW_NUMBER` e tratamento de dados governamentais
+- 🗃️ Modelagem de dados e criação de tabelas multiset com compressão, índices e performance no Teradata
+- 🧾 Análises cadastrais e operacionais com base em bancos como CadÚnico, TB_MACICA e BPC
+- 🧩 Identificação de vínculos familiares, categorização e normalização de dados sociais
+- 🧠 Documentação técnica clara para auditoria, replicação e colaboração entre equipes
+
+📌 Repositórios que organizo aqui envolvem scripts reais utilizados em bases públicas, com foco técnico, clareza e aplicabilidade prática.
+
+📫 Conecte-se comigo no [LinkedIn](www.linkedin.com/in/cláudio-césar-7498a874)
+
+---
+
+🧱 Acredito que soluções bem estruturadas e dados confiáveis transformam a entrega de políticas públicas e o impacto social.
